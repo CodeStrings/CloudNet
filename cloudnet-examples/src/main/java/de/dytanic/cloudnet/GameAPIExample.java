@@ -11,7 +11,7 @@ import org.bukkit.event.Listener;
 /**
  * Created by Tareko on 15.10.2017.
  */
-public class GameAPIExample implements Listener {
+public class GameAPIExample {
 
     public void updateGameMode()
     {
