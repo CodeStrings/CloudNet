@@ -11,7 +11,7 @@ import org.bukkit.event.EventHandler;
 /**
  * Created by Tareko on 16.12.2017.
  */
-public class ServerGetExample {
+public class ServerGetExample implements Listener {
 
     @EventHandler
     public void handle(ProxiedServerAddEvent e)
